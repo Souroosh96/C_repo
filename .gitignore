@@ -1,0 +1,16 @@
+# Ignore object files
+*.o
+
+# Ignore executable files
+*.exe
+*.out
+
+# Ignore backup and temporary files
+*~
+
+# Ignore IDE project files if not necessary
+.cproject
+.project
+
+# Ignore build directories
+/build/
